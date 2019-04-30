@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <title> Programming Online Courses </title>
+    <link rel="stylesheet" href="CSS/css.css?">
+    <script type="text/javascript" src="Javascript/main.js"></script>
+
+</head>
+
+<body>
+
+    <div id="wrapper">
+        <!-- Beginning of wrapper -->
+
+        <div id="header">
+            <!-- Header section -->
+            <a href="index.html"><img src="images/im1.png" style="width:18%"></a>
+            <div id="pages">
+                <nav>
+                    <ul id="inline">
+                        <li class="button"> <a href="index.html">Home</a></li>
+                        <li class="button"> <a href="courses.html">Courses </a></li>
+                        <li class="button"> <a href="aboutus.html">About us</a></li>
+                        <li class="button"> <a href="contact.html">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+
+        <div id="mainSection">
+            <!-- Main section -->
+
+           <div id="contact_us">
+				
+				<h9>Contact Us</h9>
+				
+				<form name="contactForm" onsubmit="contactValidate();">
+					<input type="text" placeholder="First Name" name="firstname" style="width:30%"><br>
+					<input type="text" placeholder="Last Name" name="lastname" style="width:30%"><br>
+					<input type="text" placeholder="Email" name="email" style="width:30%"><br>
+					<input type="text" placeholder="Phone" name="phone" style="width:30%"><br> <br>
+					<textarea id="textarea" placeholder="Message" name="message" style="height:150px;width:30%"></textarea><br>
+					<input type="submit" placeholder="Send" name="send"><br>
+				</form>
+
+			</div>
+
+        </div>
+
+            <div id="copyright">
+                <p>Joao Costa @ Copyright 2019</p>
+            </div>
+
+            <body onload="dateTime()">
+                <div id="dateTime">
+                    <div id="clock"></div>
+                </div>
+
+    </div>
+    <!-- End wrapper -->
+
+
+    <script>
+        showSlides(slideIndex);
+    </script>
+
+    </body>
+</body>
+
+</html>
