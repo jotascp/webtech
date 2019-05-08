@@ -7,6 +7,8 @@ On a next stage, when planning the website and its features, I have decided that
 
 # 1.1.2 Wire Frames
 
+
+
 # 1.1.3 Colour Choices
 
 # 1.1.4 Accessibility
