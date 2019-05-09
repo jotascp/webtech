@@ -14,7 +14,7 @@ The entire webpage follows a "white-and-grey rule". In my opinion, this gives a 
 
 # 1.1.4 Accessibility
 
-Being simple and well organised were two aspects I always had in my mind. Nowadays, in order to reach people from different backgrounds, genders and levels of education, it is extremely important to have websites that are simple to understand.
+Being simple and well organised were two aspects I always had in my mind. Nowadays, in order to reach people from different backgrounds, gender and levels of education, it is extremely important to have websites that are simple to understand.
 
 # 1.2.5 GDPR
 
