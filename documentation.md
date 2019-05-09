@@ -28,5 +28,6 @@ As this company provides an "open-based" platform and the access to every topic/
 # 1.2.7 Evaluation
 
 After completing the proposed website, I can conclude that the main goals were successfuly achieved - the website has different functionalities and each webpage is appropriately connected.
+
 The main issue was to convert the website following a responsive design to mobile versions. Here, I could not find the breakpoint that triggers each webpage to be adjusted for different mobile devices.
 Hence, I am now facing an improvement opportunity to tackle this issue in the near future.
